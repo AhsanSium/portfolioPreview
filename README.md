@@ -9,6 +9,6 @@
 
  4.MySQL
  
- 5.XAMP
+ 5.XAMPP
 
 #Live Site Link :https://ahsansium.github.io/portfolioPreview/index.html
